@@ -9,6 +9,7 @@ namespace FaktoriálisBigInt
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Faktoriális");
             for (int szám = 20; szám <= 40; szám++)
             {
                 BigInteger faktor = 1;
